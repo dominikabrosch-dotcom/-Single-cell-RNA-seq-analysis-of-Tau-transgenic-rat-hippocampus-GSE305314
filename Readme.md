@@ -261,13 +261,13 @@ The repository contains:
 │
 ├── figures/
 │   ├──figures_10mo
-│       ├── 1_UMAP_sample_10mo.png
-│       ├── 2_Brain_markers_10mo.png
-│       ├── 3_UMAP_cell_type_10mo.png
-│       ├── 4_Cell_type_composition_10mo.png
-│       ├── 5_DEGs_all_celltypes_10mo.png
-│       └── 6_Enrichment_all_celltypes_10mo.png
-│   ├──figures_20mo
+│   │   ├── 1_UMAP_sample_10mo.png
+│   │   ├── 2_Brain_markers_10mo.png
+│   │   ├── 3_UMAP_cell_type_10mo.png
+│   │   ├── 4_Cell_type_composition_10mo.png
+│   │   ├── 5_DEGs_all_celltypes_10mo.png
+│   │   └── 6_Enrichment_all_celltypes_10mo.png
+│   └──figures_20mo
 │       ├── 1_UMAP_sample_20mo.png
 │       ├── 2_Brain_markers_20mo.png
 │       ├── 3_UMAP_cell_type_20mo.png
