@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Scanpy / AnnData outputs
+*.h5ad
+*.loom
+
+# Raw sequencing data
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+# 10x Genomics outputs
+filtered_feature_bc_matrix/
+raw_feature_bc_matrix/
+
+# GEO downloads
+GSE*/
+data/
+
+# Temporary files
+*.tmp
+*.log
+
+# R
+.Rhistory
+.RData
+
+# Large compressed archives
+*.zip
+*.tar
+*.tar.gz
+*.gz
