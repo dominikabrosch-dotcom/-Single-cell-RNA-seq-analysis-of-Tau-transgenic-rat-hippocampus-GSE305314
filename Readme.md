@@ -4,12 +4,7 @@
 
 This project investigates cellular and transcriptional changes associated with tauopathy using single-cell RNA sequencing (scRNA-seq) data from a Tau transgenic rat model.
 
-The analysis was performed on hippocampal tissue collected from:
-
-* Wild-type (WT) rats
-* Tau transgenic rats
-
-at two disease stages:
+The analysis was performed on hippocampal tissue collected from wild-type (WT) and Tau transgenic rats at two disease stages:
 
 * 10 months
 * 20 months
