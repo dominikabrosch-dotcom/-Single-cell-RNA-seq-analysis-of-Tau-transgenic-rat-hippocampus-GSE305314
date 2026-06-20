@@ -91,7 +91,7 @@ to identify significantly enriched biological processes and pathways associated 
 
 ---
 
-# Results
+# Key Results
 
 ## Cell type identification
 
@@ -223,7 +223,7 @@ Together, these findings are consistent with progressive neuroinflammatory activ
 
 ---
 
-## Technologies
+## Software
 
 * Python 3.11
 * Scanpy
