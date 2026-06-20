@@ -99,15 +99,15 @@ Major hippocampal cell populations were successfully identified using canonical 
 
 ### 10-month cohort
 
-![UMAP cell types](figures/figures_10mo/3_UMAP_cell_type_10mo.png)
+![UMAP cell types](Figures/figures_10mo/3_UMAP_cell_type_10mo.png)
 
-![Marker genes](figures/figures_10mo/2_Brain_markers_10mo.png)
+![Marker genes](Figures/figures_10mo/2_Brain_markers_10mo.png)
 
 ### 20-month cohort
 
-![UMAP cell types](figures/figures_20mo/3_UMAP_cell_type_20mo.png)
+![UMAP cell types](Figures/figures_20mo/3_UMAP_cell_type_20mo.png)
 
-![Marker genes](figures/figures_20mo/2_Brain_markers_20mo.png)
+![Marker genes](Figures/figures_20mo/2_Brain_markers_20mo.png)
 
 Both cohorts showed clear separation of major neural and glial populations. Cell type annotation was supported by established marker genes, including neuronal, astrocytic, oligodendroglial, microglial, endothelial and ependymal markers.
 
@@ -119,11 +119,11 @@ Harmony integration resulted in good mixing of biological replicates within shar
 
 ### 10-month cohort
 
-![Sample integration](figures/figures_10mo/1_UMAP_sample_10mo.png)
+![Sample integration](Figures/figures_10mo/1_UMAP_sample_10mo.png)
 
 ### 20-month cohort
 
-![Sample integration](figures/figures_20mo/1_UMAP_sample_20mo.png)
+![Sample integration](Figures/figures_20mo/1_UMAP_sample_20mo.png)
 
 The absence of strong sample-specific clustering suggests successful correction of batch effects while maintaining biologically meaningful structure.
 
@@ -133,11 +133,11 @@ The absence of strong sample-specific clustering suggests successful correction 
 
 ### 10-month cohort
 
-![Cell type composition](figures/figures_10mo/4_Cell_type_composition_10mo.png)
+![Cell type composition](Figures/figures_10mo/4_Cell_type_composition_10mo.png)
 
 ### 20-month cohort
 
-![Cell type composition](figures/figures_20mo/4_Cell_type_composition_20mo.png)
+![Cell type composition](Figures/figures_20mo/4_Cell_type_composition_20mo.png)
 
 Cellular composition remained broadly similar between WT and Tau animals in both cohorts.
 
@@ -151,11 +151,11 @@ Differential expression analysis was performed separately for selected cell popu
 
 ### 10-month cohort
 
-![DEGs](figures/figures_10mo/5_DEGs_all_celltypes_10mo.png)
+![DEGs](Figures/figures_10mo/5_DEGs_all_celltypes_10mo.png)
 
 ### 20-month cohort
 
-![DEGs](figures/figures_20mo/5_DEGs_all_celltypes_20mo.png)
+![DEGs](Figures/figures_20mo/5_DEGs_all_celltypes_20mo.png)
 
 The strongest transcriptional alterations were observed in:
 
@@ -171,11 +171,11 @@ Compared with the 10-month cohort, the 20-month cohort displayed more pronounced
 
 ### 10-month cohort
 
-![Enrichment](figures/figures_10mo/6_Enrichment_all_celltypes_10mo.png)
+![Enrichment](Figures/figures_10mo/6_Enrichment_all_celltypes_10mo.png)
 
 ### 20-month cohort
 
-![Enrichment](figures/figures_20mo/6_Enrichment_all_celltypes_20mo.png)
+![Enrichment](Figures/figures_20mo/6_Enrichment_all_celltypes_20mo.png)
 
 Enrichment analysis revealed biologically meaningful pathways across multiple cell populations.
 
@@ -259,7 +259,7 @@ The repository contains:
 │   ├── GSE305314_10mo.ipynb
 │   └── GSE305314_20mo.ipynb
 │
-├── figures/
+├── Figures/
 │   ├──figures_10mo/
 │   │   ├── 1_UMAP_sample_10mo.png
 │   │   ├── 2_Brain_markers_10mo.png
