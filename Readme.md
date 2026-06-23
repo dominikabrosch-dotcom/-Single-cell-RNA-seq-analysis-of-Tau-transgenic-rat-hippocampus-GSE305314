@@ -150,7 +150,7 @@ Differential expression analysis was performed separately for selected cell popu
 
 ### 20-month cohort
 
-![DEGs](Figures/figures_20mo/5_DEGs_all_celltypes_20mo.png.png)
+![DEGs](Figures/figures_20mo/5_DEGs_all_celltypes_20mo.png)
 
 The strongest transcriptional alterations were observed in:
 
