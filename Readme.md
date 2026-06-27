@@ -278,9 +278,9 @@ The repository contains:
 
 ---
 
-## Author
+### Author
 
-**Dominika Brosch**
+Dominika Brosch
 
 #### LinkedIn:
 https://www.linkedin.com/in/dominika-brosch-9bb362267
